@@ -1,7 +1,7 @@
 
-/*import {Link} from 'react-router-dom'
-import styles from './styles.css'
-import Contanier from './Contanier'
+/*import 'react-router-dom'
+import './styles.css'
+import'./Contanier'
 
 
 function NavBar(){
@@ -13,15 +13,15 @@ return(
 <ul>
 
 <li>
-<link to="/">Home</link>
+Home
 </li>
 
 <li>
-<link to="/produtos">Produtos</link>
+Produtos
 </li>
 
 <li>
-<link to="/contatos">Contatos</link>
+Contatos
 </li>
 
 </ul>

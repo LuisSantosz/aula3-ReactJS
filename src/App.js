@@ -1,40 +1,25 @@
-import {Link} from 'react-router-dom'
-import styles from './styles.css'
-import Contanier from './Contanier'
+import logo from './logo.svg';
+import './App.css';
 
-
-function App(){
-return(
-
- <nav class={styles.app}>
-<Contanier>
-
-<ul>
-  
-<li>
-<link to="/">Home</link>
-</li>
-
-<li>
-<link to="/produtos">Produtos</link>
-</li>
-
-<li>
-<link to="/contatos">Contatos</link>
-</li>
-
-</ul>
-
-</Contanier>
-</nav>
-
-
-)
-
-
-
-
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          <code>Menu E-Commerce.</code>
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
+    </div>
+  );
 }
 
-export default App
-
+export default App;
