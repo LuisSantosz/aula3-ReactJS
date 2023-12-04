@@ -7,7 +7,7 @@ import Contanier from './Contanier'
 function NavBar(){
 return(
 
- <nav className={styles.navbar}>
+ <nav class={styles.navbar}>
 <Contanier>
 
 <ul>
