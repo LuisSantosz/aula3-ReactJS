@@ -11,6 +11,7 @@ return(
 <Contanier>
 
 <ul>
+  
 <li>
 <link to="/">Home</link>
 </li>
@@ -35,4 +36,6 @@ return(
 
 
 }
+
+export default NavBar
 
