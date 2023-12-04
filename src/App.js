@@ -3,10 +3,10 @@ import styles from './styles.css'
 import Contanier from './Contanier'
 
 
-function NavBar(){
+function App(){
 return(
 
- <nav class={styles.navbar}>
+ <nav class={styles.app}>
 <Contanier>
 
 <ul>
@@ -36,5 +36,5 @@ return(
 
 }
 
-export default NavBar
+export default App
 

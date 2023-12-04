@@ -1,5 +1,5 @@
 
-import {Link} from 'react-router-dom'
+/*import {Link} from 'react-router-dom'
 import styles from './styles.css'
 import Contanier from './Contanier'
 
@@ -11,7 +11,7 @@ return(
 <Contanier>
 
 <ul>
-  
+
 <li>
 <link to="/">Home</link>
 </li>
@@ -38,4 +38,4 @@ return(
 }
 
 export default NavBar
-
+*/
