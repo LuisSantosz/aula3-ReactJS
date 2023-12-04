@@ -33,15 +33,15 @@ function App() {
 
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <code>Menu E-Commerce.</code>
+          <code>Tiricica Shop - Menu E-Commerce</code>
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/LuisSantosz/aula3-ReactJS"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          GitHub
         </a>
 
       </header>
