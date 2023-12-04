@@ -30,6 +30,7 @@
 .home:hover, .produtos:hover, .contatos:hover, .sobre:hover{
 transition-duration: 1s;
 color: aqua;
+font-size: 25px;
 
 }
 
