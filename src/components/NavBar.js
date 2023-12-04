@@ -10,9 +10,20 @@ return(
  <nav className={styles.navbar}>
 <Contanier>
 
+<ul>
+<li>
 <link to="/">Home</link>
+</li>
+
+<li>
 <link to="produtos">Produtos</link>
+</li>
+
+<li>
 <link to="contatos">Contatos</link>
+</li>
+
+</ul>
 
 </Contanier>
 </nav>
