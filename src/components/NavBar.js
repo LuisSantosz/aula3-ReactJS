@@ -16,11 +16,11 @@ return(
 </li>
 
 <li>
-<link to="produtos">Produtos</link>
+<link to="/produtos">Produtos</link>
 </li>
 
 <li>
-<link to="contatos">Contatos</link>
+<link to="/contatos">Contatos</link>
 </li>
 
 </ul>
