@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <code>Aula 3 - JSX e Transpiling </code>.
+          <code>Menu E-Commerce </code>.
         </p>
         <a
           className="App-link"
